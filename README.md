@@ -1,16 +1,6 @@
 # LaravelCRUD-VUE
 ## Installation
 
-### Clone repo
-
-``` bash
-# clone the repo
-$ git clone https://github.com/rowen101/laravel_crud_blog.git
-```
-## Using Laravel Collective
-``` bash
-https://laravelcollective.com/docs/5.8/html
-```
 ### Copy and Paste
 
 Copy all your files to your project folder and then,
